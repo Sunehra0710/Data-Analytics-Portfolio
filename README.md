@@ -1,13 +1,38 @@
-# Data-Analytics-Portfolio
-Data Analytics Portfolio showcasing projects in Tableau, R, Excel VBA, SAS, and Python/Jupyter. Includes case studies on customer segmentation, sales dashboards, optimization modeling, and COVID-19 global analysis
 
-Welcome! This portfolio showcases end-to-end analytics across **SAS, R, Python/Jupyter, Excel/VBA, and Tableau**.
+# 📊 Data Analytics Portfolio — Sunehra Tazreen
 
-## Projects
-- **Customer Segmentation & Loan Prediction (SAS Viya)** → [`sas-customer-segmentation-loan-prediction`](sas-customer-segmentation-loan-prediction)
-- **Retail Sales Dashboard + VBA Automation (Excel)** → [`excel-vba-retail-sales-dashboard`](excel-vba-retail-sales-dashboard)
-- **Production Optimization & Simulation (RStudio)** → [`rstudio-production-optimization`](rstudio-production-optimization)
-- **COVID-19 Global Analysis (Tableau)** → [`tableau-covid19-global-analysis`](tableau-covid19-global-analysis)
-- **Machine Learning & NLP (Jupyter)** → [`jupyter-ml-nlp-projects`](jupyter-ml-nlp-projects)
+Welcome! This portfolio showcases academic and independent data analytics projects using **SAS, R, Excel/VBA, Tableau, JMP, and Python/Jupyter**.  
 
-**Contact:** email • LinkedIn • Tableau Public
+Each project highlights different techniques in data visualization, machine learning, predictive modeling, and optimization.  
+
+---
+
+## 🔹 Projects
+
+1. **Customer Segmentation & Loan Prediction (SAS Viya)**  
+   Tools: SAS Viya | Techniques: Clustering, Logistic Regression, Decision Tree  
+   → [View Project](sas-customer-segmentation-loan-prediction)  
+
+2. **Retail Sales Dashboard + VBA Automation (Excel)**  
+   Tools: Excel, VBA | Techniques: PivotTables, Dashboards, Automation  
+   → [View Project](excel-vba-retail-sales-dashboard)  
+
+3. **Production Optimization & Simulation (RStudio)**  
+   Tools: R, lpSolve | Techniques: Linear Programming, Monte Carlo Simulation  
+   → [View Project](rstudio-production-optimization)  
+
+4. **Consumer Preference Analytics (JMP)**  
+   Tools: JMP Pro | Techniques: Clustering, Regression, Decision Tree  
+   → [View Project](jmp-consumer-preferences)  
+
+5. **COVID-19 Global Analysis (Tableau)**  
+   Tools: Tableau | Techniques: Time-Series Analysis, Mapping, Forecasting  
+   → [View Project](tableau-covid19-global-analysis)  
+
+6. **Machine Learning & NLP (Jupyter Notebook)**  
+   Tools: Python, Jupyter | Techniques: Text Classification, Predictive Modeling  
+   → [View Project](jupyter-ml-nlp-projects)  
+
+---
+
+📌 **Contact:** [LinkedIn](#) • [Email](#) • [Tableau Public](#)
