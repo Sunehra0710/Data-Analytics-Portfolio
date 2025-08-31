@@ -35,4 +35,4 @@ Each project highlights different techniques in data visualization, machine lear
 
 ---
 
-📌 **Contact:** [LinkedIn](#) • [Email](#) • [Tableau Public](#)
+📌 **Contact:** [LinkedIn](https://www.linkedin.com/in/sunehra-t/) • [Email](sunehratazreen@gmail.com) 
